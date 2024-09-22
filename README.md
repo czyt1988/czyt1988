@@ -8,12 +8,12 @@ email : czy.t@163.com
     </tr>
     <tr>
         <td colspan="2"><img src="http://github-profile-summary-cards2.vercel.app/api/cards/repos-per-language?username=czyt1988&theme=nord_bright&bg_color=0000&border_color=0000"/></td>
-        <td colspan="2"><img src="http://github-profile-summary-cards2.vercel.app/api/cards/productive-time?username=czyt1988&utcOffset=8&theme=nord_bright&bg_color=0000&border_color=0000"/></td>
+        <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyt1988&layout=compact&theme=tokyonight"/></td>
+    </tr>
+    <tr></tr>
+        <td colspan="1"><img src="http://github-profile-summary-cards2.vercel.app/api/cards/productive-time?username=czyt1988&utcOffset=8&theme=nord_bright&bg_color=0000&border_color=0000"/></td>
+        <td colspan="3"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=czyt1988&theme=dracula"/></td>
     </tr>
 </table>
 
     
-
-
-
-![](https://github-profile-trophy.vercel.app/?username=czyt1988&no-bg=true&no-frame=true&row=1&column=6&margin-w=15)
