@@ -7,12 +7,12 @@ email : czy.t@163.com
         <td colspan="2"><img src="https://streak-stats.demolab.com/?user=czyt1988&mode=weekly&hide_border=true&background=00000000"/></td>
     </tr>
     <tr>
-        <td colspan="2"><img src="http://github-profile-summary-cards2.vercel.app/api/cards/repos-per-language?username=czyt1988&theme=nord_bright&bg_color=0000&border_color=0000"/></td>
-        <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyt1988&layout=compact&theme=nord_bright"/></td>
+        <td colspan="2"><img src="http://github-profile-summary-cards2.vercel.app/api/cards/repos-per-language?username=czyt1988&theme=github&bg_color=0000&border_color=0000"/></td>
+        <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyt1988&layout=compact&theme=github"/></td>
     </tr>
     <tr>
-        <td colspan="1"><img src="http://github-profile-summary-cards2.vercel.app/api/cards/productive-time?username=czyt1988&utcOffset=8&theme=nord_bright&bg_color=0000&border_color=0000"/></td>
-        <td colspan="3"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=czyt1988&theme=dracula"/></td>
+        <td colspan="3"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czyt1988&theme=github"/></td>
+        <td colspan="1"><img src="http://github-profile-summary-cards2.vercel.app/api/cards/productive-time?username=czyt1988&utcOffset=8&theme=github&bg_color=0000&border_color=0000"/></td>
     </tr>
 </table>
 
