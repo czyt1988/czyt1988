@@ -12,3 +12,10 @@
     </div>
   </a>
 </div>
+<div align="center">
+    <img src="https://img.shields.io/badge/Cpp-3776AB?logo=cplusplus&logoColor=white" alt="cpp">
+    <img src="https://img.shields.io/badge/qt-248c58?logo=qt&logoColor=white" alt="Qt">
+    <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white" alt="python">
+    <img src="https://img.shields.io/badge/Matlab-096ca5?logo=MathWorks&logoColor=white" alt="Matlab">
+    <img src="https://img.shields.io/badge/Automation-326CE5?logo=robot&logoColor=white" alt="Automation">
+</div>
