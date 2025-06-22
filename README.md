@@ -1,15 +1,14 @@
-## 尘中远(czy)
+<h1 align="center">Hi 👋, I'm 尘中远/czy</h1>
+<h3 align="center">My E-Mail: czy.t@163.com</h3>
 
-email : czy.t@163.com
-<table align="center" border="0">
-    <tr>
-        <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyt1988&layout=compact&theme=github"/></td>
-        <td colspan="2"><img src="https://github-readme-stats.vercel.app/api?username=czyt1988&show_icons=true&hide_border=true&bg_color=00000000&number_format=long"/></td>
-    </tr>
-    <tr>
-        <td colspan="3"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czyt1988&theme=github"/></td>
-        <td><img src="http://github-profile-summary-cards2.vercel.app/api/cards/productive-time?username=czyt1988&utcOffset=8&theme=github&bg_color=0000&border_color=0000"/></td>
-    </tr>
-</table>
-
-    
+<div align="center">
+  <a href="https://github.com/czyt1988">
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=czyt1988&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyt1988&layout=compact&theme=github" alt="Top Languages" />
+    </div>
+    <div style="max-width: 100%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czyt1988&theme=github" alt="Profile Details" />
+    </div>
+  </a>
+</div>
